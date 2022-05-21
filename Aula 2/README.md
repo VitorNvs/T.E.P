@@ -195,3 +195,4 @@ Bom dia!
 ```
 > Caso eu crie uma variável dentro de uma função, ela será uma variável local, ou seja, não será possível usá-la em outra função.
 
+<img align="right" src="https://c.tenor.com/ZhPtZ4-pRH4AAAAd/kikis-delivery-service-kiki.gif">
