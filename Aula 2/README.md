@@ -196,4 +196,4 @@ Bom dia!
 > Caso eu crie uma variável dentro de uma função, ela será uma variável local, ou seja, não será possível usá-la em outra função.
 
 ### Alunos depois da aula😴
-<img align="right" height=200px src="https://c.tenor.com/ZhPtZ4-pRH4AAAAd/kikis-delivery-service-kiki.gif">
+<img align="left" height=200px src="https://c.tenor.com/ZhPtZ4-pRH4AAAAd/kikis-delivery-service-kiki.gif">
