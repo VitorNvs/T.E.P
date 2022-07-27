@@ -4,13 +4,13 @@
 
 int main()
 {
-	//Inicializa as vari·veis
+	//Inicializa as vari√°veis
     int num = 10;
     float num2 = 5.5;
     char c = 'a';
     bool b = true;
     
-    //Cria ponteiros e os referencia aos endereÁos das vari·veis criadas a cima
+    //Cria ponteiros e os referencia aos endere√ßos das vari√°veis criadas a cima
     int *pn = &num;
     float *pn2 = &num2;
     char *pc = &c;
@@ -25,8 +25,8 @@ int main()
     
     printf("Valores Novos\n");
     
-    //Muda os valores das vari·veis a partir do ponteiro
-    //Colocando o * na frente, a mudanÁa estar· sendo feita no valor apontado pelo ponteiro
+    //Muda os valores das vari√°veis a partir do ponteiro
+    //Colocando o * na frente, a mudan√ßa estar√° sendo feita no valor apontado pelo ponteiro
     *pn = 24;
     *pn2 = 4.8;
     *pc = 'f';
